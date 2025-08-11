@@ -34,4 +34,22 @@
         git commit -m "Your message"
         git push
    ```
+---
+### Connecting the Jupyter Notebook
+```pip install notebook jupyterlab  pip install notebook jupyterlab  
+pip install notebook==6.0.3 # For 32 bit
 
+pip install ipykernel
+pip install ipykernel==5.3.4 #for 32 bit
+
+
+jupyter --version
+
+pip install notebook==6.0.3 # For 32 bit
+
+pip install ipykernel
+pip install ipykernel==5.3.4 #for 32 bit
+
+
+jupyter --version
+```
