@@ -1,9 +1,3 @@
-It looks like you've built a solid foundation with **एमएलसंग्रह**\! To optimize this README for better readability (and for your own revision), we should use a structured table format. This makes it easier to scan through techniques, tools, and project goals at a glance.
-
-I have cleaned up the typos, improved the formatting, and organized your learning journey into logical tables while keeping all your specific revision notes intact.
-
------
-
 # 📚 **एमएलसंग्रह (MLSangrah)** 📚
 
 Welcome to **एमएलसंग्रह** – a curated collection of Machine Learning and Deep Learning projects designed to bridge the gap between theory and production-grade implementation.
