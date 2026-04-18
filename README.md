@@ -1,5 +1,7 @@
 # 📚 एमएलसंग्रह (MLSangrah)
+
 ![Avery Davis](https://github.com/user-attachments/assets/60f9df3c-77fc-4d90-a56e-7a530ae63c61)
+
 A structured and comprehensive repository of **Machine Learning and Deep Learning projects**, designed to demonstrate practical implementation of core concepts, model development, and end-to-end workflows.
 
 This repository serves as a **technical portfolio** showcasing proficiency in data preprocessing, model building, evaluation, and optimization across multiple domains.
