@@ -1,9 +1,3 @@
-You're absolutely right to catch that. For a README to be functional on GitHub, those links need to point to the correct file paths within your repository structure so they are clickable from the main page.
-
-I have updated the tables below with the correct relative Markdown links based on the structure you provided. I also polished the descriptions to ensure your revision notes are front and center.
-
------
-
 # 📚 **एमएलसंग्रह (MLSangrah)** 📚
 
 Welcome to **एमएलसंग्रह** – a comprehensive collection of Machine Learning and Deep Learning implementations. This repository serves as both a portfolio and a personal revision guide for fundamental and advanced AI concepts.
